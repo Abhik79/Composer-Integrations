@@ -36,7 +36,7 @@ The project is structured as follows:
 
 ## Files
 
-### 1. **auth/coastal-throne-433510-a5-9d8c4d581c73.json**
+### 1. **auth/sample_key.json**
 
 This file is the service account key file for authenticating with Google Cloud services. **Make sure to keep this file secure.** It is used for both publishing messages and connecting Airflow to Google Cloud services.
 
