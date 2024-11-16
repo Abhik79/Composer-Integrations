@@ -108,5 +108,3 @@ This Python script defines an Airflow DAG that listens for messages from a Pub/S
 - **Airflow Issues**: Check Airflow logs for detailed error messages.
 
 ---
-
-This README covers all essential details for setting up and using the Pub/Sub-Airflow BigQuery integration. Modify the configurations as needed for your specific use case. Happy coding!
