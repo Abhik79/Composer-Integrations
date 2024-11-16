@@ -96,7 +96,7 @@ This Python script defines an Airflow DAG that listens for messages from a Pub/S
 
 ## Security Considerations
 
-- **Service Account Key File**: Keep the `coastal-throne-433510-a5-9d8c4d581c73.json` file secure.
+- **Service Account Key File**: Keep the `sample_key.json` file secure.
 - **Permissions**: Ensure appropriate permissions are set on Google Cloud for Pub/Sub and BigQuery access.
 
 ---
